@@ -144,7 +144,8 @@ Execute the program
 </html>
 ```
 # OUPUT:
-![timetableop](https://user-images.githubusercontent.com/118707363/211724387-ffecb7c1-9eb1-4052-9ca4-39e37508c731.png)
+![211724387-ffecb7c1-9eb1-4052-9ca4-39e37508c731](https://github.com/rakesh9339/timetable/assets/121115650/7a91faf0-339a-4126-8019-765f137e5460)
+
 # VALIDATION:
 ![214325256-8e54f0b2-03d3-4382-940b-4924350f2ee4](https://github.com/rakesh9339/timetable/assets/121115650/cde50ca0-bc47-4023-aa27-698e27ed7e27)
 
