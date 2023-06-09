@@ -23,11 +23,11 @@ Execute the program
 <body>
   	<center><img src= "C:\Users\SEC\Pictures\logo.png" width="1500" height="200"></center>
 	<h1 align="center">SAVEETHA ENGINEERING COLLEGE</h1>
-	<h2 align="center">Name            : Mukesh V</h2>
-	<h2 align="center">Ref no          : 22008323</h2>
+	<h2 align="center">Name            : RAKESH JS V</h2>
+	<h2 align="center">Ref no          : 212222230115</h2>
 	<h2 align="center">Dep             : AI-DS</h2>
 	<h2 align="center">College code    : 2122</h2>
-	<h2 align="center">Slot            : 6C1-1</h2>
+	<h2 align="center">Slot            : 6A11</h2>
 	<h1 align="center">CLASS TIME TABLE</h2>
 	
 
